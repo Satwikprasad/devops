@@ -1,0 +1,1 @@
+develop a credictive model to identify employees who are likely leave the organization based on job satisfaction salary work experience
